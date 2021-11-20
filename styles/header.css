@@ -1,0 +1,15 @@
+header {
+    height: 100px;
+    background-color: rgb(49, 49, 49);
+    width: 100%;
+    top: 0;
+    position: fixed;
+}
+
+.header h2 {
+    margin: 0;
+    color: #DDDDDD;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
